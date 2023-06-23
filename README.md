@@ -112,3 +112,5 @@ Y luego cambio la linea del arrancador de ise por la nueva librería más modern
 #export LD_PRELOAD=/opt/Xilinx/14.7/usb-driver/libusb-driver.so
 export LD_PRELOAD=/fuentes/usb-driver/libusb-driver.so
 ```
+La versión en inglés esta publicada en mi perfil de reddit:
+https://www.reddit.com/r/FPGA/comments/14gy0wy/steps_to_install_ise_147_in_debian_12/
