@@ -1,5 +1,7 @@
 # SOPORTE_XILINX_ISE_14.7_EN_DEBIAN12
 
+![Pantallazo ISE14.7 en DEBIAN 12](https://github.com/AtlasFPGA/Soporte_XILINX_ISE_14.7_en_DEBIAN12/blob/main/Fotos/shot-2023-06-23_12-33-21.jpg)
+
 # Estoy trabajando para dar soporte xilinx a ATLAS y estos son los primeros pasos.
 
 Me puse a ver como poder instalar el ISE 14.7 en el nuevo DEBIAN 12, y funciona perfectamente.
