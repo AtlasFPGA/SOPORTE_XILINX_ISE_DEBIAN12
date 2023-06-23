@@ -92,7 +92,8 @@ http://git.zerfleddert.de/cgi-bin/gitweb.cgi/usb-driver?a=snapshot;h=HEAD;sf=tgz
 
 Repositorio GIT:
 
-[http://git.zerfleddert.de/cgi-bin/gitwe ... ver?a=tree](http://git.zerfleddert.de/cgi-bin/gitweb.cgi/usb-driver?a=tree)
+http://git.zerfleddert.de/cgi-bin/gitweb.cgi/usb-driver?a=tree
+
 ---
 
 Clonar el repositorio:
