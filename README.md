@@ -83,12 +83,17 @@ Para poder compilarla hay que tener las siguientes dependencias de paquetes inst
 ```
 apt-get install libusb-dev
 ```
-
+---
 Descargar el fichero:
+
 usb-driver-HEAD.tar.gz
-http://git.zerfleddert.de/cgi-bin/gitwe ... EAD;sf=tgz
+
+http://git.zerfleddert.de/cgi-bin/gitweb.cgi/usb-driver?a=snapshot;h=HEAD;sf=tgz
+
 Repositorio GIT:
-http://git.zerfleddert.de/cgi-bin/gitwe ... ver?a=tree
+
+[http://git.zerfleddert.de/cgi-bin/gitwe ... ver?a=tree](http://git.zerfleddert.de/cgi-bin/gitweb.cgi/usb-driver?a=tree)
+---
 
 Clonar el repositorio:
 ```
