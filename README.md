@@ -1,11 +1,8 @@
-# SOPORTE_XILINX_ISE_DEBIAN12
-
-Secuencia de comandos para tener soporte de ISE 14.7 en el actual DEBIAN 12
+# SOPORTE_XILINX_ISE_14.7_EN_DEBIAN12
 
 # Estoy trabajando para dar soporte xilinx a ATLAS y estos son los primeros pasos.
 
 Me puse a ver como poder instalar el ISE 14.7 en el nuevo DEBIAN 12, y funciona perfectamente.
-
 Aquí os dejo un código con el script a generar:
 
 ```
